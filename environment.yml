@@ -1,0 +1,8 @@
+name: openai
+channels:
+  - conda-forge
+dependencies:
+  - ipython
+  - pip
+  - pip:
+    - openai
